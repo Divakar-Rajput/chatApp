@@ -1,6 +1,6 @@
 # chatApp
 
-# 💬 RealChat — Real-Time Chat Web App
+# 💬 ChatApp — Real-Time Chat Web App
 
 A modern, WhatsApp-inspired real-time chat web application built with PHP, featuring instant messaging, user authentication, and a sleek dark-themed UI.
 
