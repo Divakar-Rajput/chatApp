@@ -130,7 +130,7 @@ chat/
 
 > *"This is a real time chat app"* — as seen live in the app itself! 😄
 
-- GitHub: [@divakarrajput](https://github.com/divakarrajput)
+- GitHub: [@divakarrajput](https://github.com/Divakar-Rajput)
 
 
 ---
