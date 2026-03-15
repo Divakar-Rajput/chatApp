@@ -132,11 +132,6 @@ chat/
 
 - GitHub: [@divakarrajput](https://github.com/divakarrajput)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
